@@ -3,8 +3,8 @@ Convert pgm image files to RLE format expected by the keepkey
 
 ## Installation ##
 
-	go get -u github.com/keepkey/pgm-to-rle
-	go install github.com/keepkey/pgm-to-rle
+	go get -u github.com/markrypt0/pgm-to-rle
+	go install github.com/markrypt0/pgm-to-rle
 
 ## Usage ##
   ```
